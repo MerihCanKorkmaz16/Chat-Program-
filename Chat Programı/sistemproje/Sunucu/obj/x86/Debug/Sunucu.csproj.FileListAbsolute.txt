@@ -1,0 +1,30 @@
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.dll
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.exe
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.exe
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.dll
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.csprojResolveAssemblyReference.cache
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.exe
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\Sunucu.pdb
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.dll
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\bin\Debug\RemoteObject.pdb
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.csprojResolveAssemblyReference.cache
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.exe
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Sunucu\obj\x86\Debug\Sunucu.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\obj\x86\Debug\Sunucu.exe
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\obj\x86\Debug\Sunucu.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\bin\Debug\Sunucu.exe
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\bin\Debug\Sunucu.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\bin\Debug\RemoteObject.dll
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\bin\Debug\RemoteObject.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Sunucu\obj\x86\Debug\Sunucu.csprojResolveAssemblyReference.cache
+C:\Users\Fatma\Desktop\masaüstü\dağıtık\dagıtıksistemler\Sunucu\obj\x86\Debug\Sunucu.exe
+C:\Users\Fatma\Desktop\masaüstü\dağıtık\dagıtıksistemler\Sunucu\obj\x86\Debug\Sunucu.pdb

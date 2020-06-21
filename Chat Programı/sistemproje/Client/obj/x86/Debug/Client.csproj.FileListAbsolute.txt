@@ -1,0 +1,160 @@
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.Form1.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\bin\Debug\Client.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\bin\Debug\Client.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\bin\Debug\RemoteObject.dll
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\bin\Debug\RemoteObject.pdb
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.exe
+c:\users\ahmet\documents\visual studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\bin\Debug\Client.exe
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\bin\Debug\Client.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\bin\Debug\RemoteObject.dll
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\bin\Debug\RemoteObject.pdb
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.exe
+C:\Users\krep\Documents\Visual Studio 2012\Projects\ChatApplication\Client\obj\x86\Debug\Client.pdb
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.exe
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.pdb
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\bin\Debug\Client.exe
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\bin\Debug\Client.pdb
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\bin\Debug\RemoteObject.dll
+C:\Users\krep\Documents\Visual Studio 2010\Projects\ChatApplication\Client\bin\Debug\RemoteObject.pdb
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.exe
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.pdb
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\bin\Debug\Client.exe
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\bin\Debug\Client.pdb
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\bin\Debug\RemoteObject.dll
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\bin\Debug\RemoteObject.pdb
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\serdar\Downloads\Compressed\ChatApplication\ChatApplication\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.exe
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\serdar\Desktop\ChatApplication\Client\bin\Debug\Client.exe
+C:\Users\serdar\Desktop\ChatApplication\Client\bin\Debug\Client.pdb
+C:\Users\serdar\Desktop\ChatApplication\Client\bin\Debug\RemoteObject.dll
+C:\Users\serdar\Desktop\ChatApplication\Client\bin\Debug\RemoteObject.pdb
+C:\Users\serdar\Desktop\ChatApplication\Client\obj\x86\Debug\Client.pdb
+C:\Users\ACER-PC\Documents\Visual Studio 2012\Projects\işletim sistemi\işletim\Client\obj\x86\Debug\Client.exe
+C:\Users\ACER-PC\Documents\Visual Studio 2012\Projects\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ACER-PC\Documents\Visual Studio 2012\Projects\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ACER-PC\Documents\Visual Studio 2012\Projects\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ACER-PC\Documents\Visual Studio 2012\Projects\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.exe
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\bin\Debug\Client.exe
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\bin\Debug\Client.pdb
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.dll
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.pdb
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ugur-\Desktop\github\işletim-sistemi\işletim sistemi\işletim\Client\obj\x86\Debug\Client.pdb
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.exe
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.pdb
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\Client.exe
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\Client.pdb
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.dll
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.pdb
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ACER-PC\Desktop\işletim-sistemiSon\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.exe
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.dll
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.pdb
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.exe
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.pdb
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.dll
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\RemoteObject.pdb
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Fatma\Documents\Visual Studio 2013\Projects\işletim-sistemiSon\işletim sistemi\işletim\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\Client.exe
+C:\Users\Fatma\Desktop\işletim-sistemiSon\işletim sistemi\işletim\Client\bin\Debug\Client.pdb
+C:\Users\Fatma\Desktop\masaüstü\dağıtık\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+C:\Users\Fatma\Desktop\masaüstü\dağıtık\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+C:\Users\FATMA\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+C:\Users\FATMA\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\bin\Debug\Client.exe
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\bin\Debug\Client.pdb
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\bin\Debug\RemoteObject.dll
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\bin\Debug\RemoteObject.pdb
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+C:\Users\Elcin\Desktop\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+C:\Users\Elcin\Desktop\bbbbb\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+C:\Users\Elcin\Desktop\bbbbb\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+D:\DERSLER\yazılım mühendisliği\yazılım mühendisliği 2017 güz\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+D:\DERSLER\yazılım mühendisliği\yazılım mühendisliği 2017 güz\Yazılım Mühendisliği\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.exe
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.pdb
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.Form2.resources
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\bin\Debug\Client.exe
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\bin\Debug\Client.pdb
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\bin\Debug\RemoteObject.dll
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\bin\Debug\RemoteObject.pdb
+C:\Users\ass\Desktop\merih çizimli sohbet uygulaması\dagıtıksistemler\Client\obj\x86\Debug\Client.csproj.CopyComplete
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\bin\Debug\Client.exe
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\bin\Debug\Client.pdb
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\bin\Debug\RemoteObject.dll
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\bin\Debug\RemoteObject.pdb
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.Form1.resources
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.Form2.resources
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.csproj.CopyComplete
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.exe
+D:\önemli dosyalarım\OKUL İLE İLGİLİ\sistemproje\Client\obj\x86\Debug\Client.pdb
+C:\Users\ass\Desktop\sistemproje\Client\bin\Debug\Client.exe
+C:\Users\ass\Desktop\sistemproje\Client\bin\Debug\Client.pdb
+C:\Users\ass\Desktop\sistemproje\Client\bin\Debug\RemoteObject.dll
+C:\Users\ass\Desktop\sistemproje\Client\bin\Debug\RemoteObject.pdb
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.Form2.resources
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.csproj.CopyComplete
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.exe
+C:\Users\ass\Desktop\sistemproje\Client\obj\x86\Debug\Client.pdb
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\bin\Debug\Client.exe
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\bin\Debug\Client.pdb
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\bin\Debug\RemoteObject.dll
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\bin\Debug\RemoteObject.pdb
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.Form2.resources
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.csproj.CopyComplete
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.exe
+C:\Users\ass\Desktop\Tüm ödevler\dağıtık sistemler\Proje\sistemproje\Client\obj\x86\Debug\Client.pdb
